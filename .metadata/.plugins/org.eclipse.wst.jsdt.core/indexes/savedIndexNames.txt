@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Java Projects\1-2-3_Grocery\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2787925131.index
+896477426.index
+1851189933.index
+3474827721.index
+2093525464.index
+488811030.index

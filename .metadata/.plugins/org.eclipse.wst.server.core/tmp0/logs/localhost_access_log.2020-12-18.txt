@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [18/Dec/2020:16:30:00 +0500] "POST /login HTTP/1.1" 404 756
+0:0:0:0:0:0:0:1 - - [18/Dec/2020:20:03:04 +0500] "POST /login HTTP/1.1" 404 756
+0:0:0:0:0:0:0:1 - - [18/Dec/2020:20:04:06 +0500] "GET /MySpringMVC/ HTTP/1.1" 200 909
+0:0:0:0:0:0:0:1 - - [18/Dec/2020:20:04:18 +0500] "POST /MySpringMVC/login HTTP/1.1" 500 3458
+0:0:0:0:0:0:0:1 - - [18/Dec/2020:20:09:23 +0500] "GET /MySpringMVC/register HTTP/1.1" 200 956
+127.0.0.1 - - [18/Dec/2020:20:25:27 +0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Dec/2020:20:25:28 +0500] "GET /MySpringMVC/WEB-INF/classes/net/codejava/controller/HomeController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [18/Dec/2020:20:25:58 +0500] "GET /MySpringMVC/register HTTP/1.1" 200 956
+0:0:0:0:0:0:0:1 - - [18/Dec/2020:20:26:20 +0500] "POST /MySpringMVC/sign HTTP/1.1" 500 3460
+127.0.0.1 - - [18/Dec/2020:20:29:29 +0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Dec/2020:20:29:30 +0500] "GET /MySpringMVC/WEB-INF/classes/com/grocery/dao/customer.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [18/Dec/2020:20:29:49 +0500] "POST /MySpringMVC/sign HTTP/1.1" 500 3460
+0:0:0:0:0:0:0:1 - - [18/Dec/2020:20:29:58 +0500] "POST /MySpringMVC/sign HTTP/1.1" 500 3460
+192.168.10.8 - - [18/Dec/2020:21:11:40 +0500] "GET / HTTP/1.1" 404 751
+192.168.10.8 - - [18/Dec/2020:21:11:46 +0500] "GET /HNAP1/ HTTP/1.1" 404 761

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\Java Projects\1-2-3_Grocery\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3182341109.index
+\MySpringMVC\src\main\java
+D:\Java Projects\1-2-3_Grocery\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4162742655.index
+\MySpringMVC\src\main\java

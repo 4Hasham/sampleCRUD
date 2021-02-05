@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+D:\Java Projects\1-2-3_Grocery\.metadata\.plugins\org.eclipse.jdt.core
+3971988191.index
+3818052702.index
+569579174.index
+2111507971.index
+2885552392.index
+2101694780.index
+660893103.index
+488811030.index
+1820043808.index
+729905320.index
+473180677.index
+2007402401.index
+3551409267.index
+2665108177.index
+2959253716.index
+608495179.index
+3369838350.index
+631748712.index
+3877823379.index
+30127491.index
+2127497067.index
